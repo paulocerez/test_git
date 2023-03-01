@@ -5,4 +5,8 @@ Ingredients:
 - Rice
 - Sauce
 - Spices
+<<<<<<< HEAD
 - paprika
+=======
+- Tikki Masala Sauce
+>>>>>>> origin/receipt-cem
