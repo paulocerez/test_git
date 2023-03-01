@@ -5,3 +5,4 @@ Ingredients:
 - Rice
 - Sauce
 - Spices
+- paprika
